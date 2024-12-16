@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kade/study/mlflow/model-example/mlruns/0/6b650df03f7f4bfc83715b175a8becb4/artifacts
+end_time: 1734333091159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b650df03f7f4bfc83715b175a8becb4
+run_name: spiffy-crab-795
+run_uuid: 6b650df03f7f4bfc83715b175a8becb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734333089518
+status: 3
+tags: []
+user_id: kade
